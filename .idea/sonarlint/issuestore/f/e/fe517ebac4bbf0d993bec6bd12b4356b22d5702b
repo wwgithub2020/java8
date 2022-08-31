@@ -1,0 +1,17 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ç âýÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ü·ß
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¡ý›
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Œ€Â—
+Q	java:S125&"<This block of commented-out lines of code should be removed.(Èÿ´õ
+c	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÁÔ•
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Œ€Â—
+h	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü˜Îðýÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(Œ€Â—
+o
+java:S1192$"YDefine a constant instead of duplicating this literal "åŽ»é‡ä¹‹å‰çš„æ•°æ®ï¼š" 3 times.(Œ€Â—
+ƒ
+java:S1319#"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(û¡ý›
+z
+java:S1488H"_Immediately return this expression instead of assigning it to the temporary variable "collect".(ÙºÑžüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½ëÑþûÿÿÿÿ

@@ -1,0 +1,4 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ÅñŸüÿÿÿÿ
+R
+java:S1128"5Remove this unused import 'org.junit.rules.TestRule'.(ÀÛ¶Ï8¨Š”ù/

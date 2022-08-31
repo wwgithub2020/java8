@@ -1,0 +1,19 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(–îã­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±¥‡ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(—ŠÒõşÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(…¾³ê
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(”ÍĞ†øÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+ƒ
+java:S1192"hDefine a constant instead of duplicating this literal "---------------------------------------" 3 times.(™çšùÿÿÿÿ
+q
+java:S1192"VDefine a constant instead of duplicating this literal "å•†å“çš„ç¼–å·ä¸ºï¼š" 3 times.(±¥‡ıÿÿÿÿ
+t
+java:S1192"YDefine a constant instead of duplicating this literal "ï¼Œå•†å“çš„åç§°ä¸ºï¼š" 3 times.(±¥‡ıÿÿÿÿ
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—÷‰

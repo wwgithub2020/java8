@@ -1,0 +1,28 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œËãÿ8´ÒØ¤÷/
+Y
+java:S1854"7Remove this useless assignment to local variable "set".(îÍÙ„ÿÿÿÿÿ8µÒØ¤÷/
+J
+java:S1481"(Remove this unused "set" local variable.(îÍÙ„ÿÿÿÿÿ8ºÒØ¤÷/
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£õ®ˆşÿÿÿÿ8¼ÒØ¤÷/
+U
+java:S1117*"8Rename "list" which hides the field declared at line 30.(‚Ëå÷8½ÒØ¤÷/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¾ÒØ¤÷/
+Z
+java:S11172"8Rename "list" which hides the field declared at line 30.(şâë¬ıÿÿÿÿ8¿ÒØ¤÷/
+Z
+java:S1117?"8Rename "list" which hides the field declared at line 30.(şâë¬ıÿÿÿÿ8ÃÒØ¤÷/
+o	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷È™¹şÿÿÿÿ8ÄÒØ¤÷/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÆÒØ¤÷/
+o	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óû—«üÿÿÿÿ8ÆÒØ¤÷/
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÈÒØ¤÷/
+j	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉŞ8ÊÒØ¤÷/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÌÒØ¤÷/
+k	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹†¬8ÍÒØ¤÷/
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÏÒØ¤÷/
+p	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ë—üûÿÿÿÿ8ĞÒØ¤÷/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ÓÙÑûÿÿÿÿ8ÒÒØ¤÷/
+E
+java:S1604"(Make this anonymous inner class a lambda(Û•óù8ÖÒØ¤÷/
+J
+java:S1604p"(Make this anonymous inner class a lambda(Æ–Å…ıÿÿÿÿ8ÖÒØ¤÷/

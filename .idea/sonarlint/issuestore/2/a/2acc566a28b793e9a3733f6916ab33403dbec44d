@@ -1,0 +1,32 @@
+
+c	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œËãÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(î¼ùš
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£õ®ˆşÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ
+h	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷È™¹şÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ó½ê¿úÿÿÿÿ
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óû—«üÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(çşºÍùÿÿÿÿ
+c	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉŞ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(²¥ü¾úÿÿÿÿ
+c	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹†¬
+S
+java:S1117T"8Rename "list" which hides the field declared at line 22.(ø¶ä­ùÿÿÿÿ
+[
+java:S1612U"@Replace this lambda with method reference 'String::toUpperCase'.(Ò‚Òøÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+h	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ë—üûÿÿÿÿ
+S
+java:S1117]"8Rename "list" which hides the field declared at line 22.(ø¶ä­ùÿÿÿÿ
+G
+java:S1602_",Remove useless curly braces around statement(¿üÛ§ùÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(İ¿ãøÿÿÿÿ
+c	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”æ¼œ
+S
+java:S1117i"8Rename "list" which hides the field declared at line 22.(ø¶ä­ùÿÿÿÿ
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(¶Êºê8ß†ğÚ/
+o
+java:S3012u"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(íôÒĞ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£õì¢ûÿÿÿÿ
+W
+java:S4973L"<Strings and Boxed types should be compared using "equals()".(²¥ü¾úÿÿÿÿ

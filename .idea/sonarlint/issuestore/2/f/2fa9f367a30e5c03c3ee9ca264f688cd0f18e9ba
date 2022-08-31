@@ -1,0 +1,8 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "count".(åÕä¨ÿÿÿÿÿ8˜ÁÈ“ù/
+\
+java:S2123":Remove this increment or correct the code not to waste it.(åÕä¨ÿÿÿÿÿ8™ÁÈ“ù/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8‘É“ù/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8Ÿ‘É“ù/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É°ï8Ÿ‘É“ù/

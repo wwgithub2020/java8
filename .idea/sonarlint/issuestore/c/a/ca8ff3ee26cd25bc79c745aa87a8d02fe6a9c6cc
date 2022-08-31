@@ -1,0 +1,18 @@
+
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œËãÿ
+K
+java:S18542"5Remove this useless assignment to local variable "c".(ÿíÂâ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Óô£è
+<
+java:S14812"&Remove this unused "c" local variable.(ÿíÂâ
+h	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£õ®ˆşÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷È™¹şÿÿÿÿ
+O
+java:S1612L"9Replace this lambda with method reference 'String::trim'.(ÅÅ²
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+V
+java:S1612O"@Replace this lambda with method reference 'String::toUpperCase'.(¿¡ˆ­
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(½å—˜
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óû—«üÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(¶ÁìÙ

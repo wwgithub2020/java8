@@ -1,0 +1,10 @@
+
+@
+java:S1197"*Move the array designators [] to the type.(“ðúÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(óç†'
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›Ó¬Ìúÿÿÿÿ
+c
+java:S2095"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(™—“è
+d
+java:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ÊÏ»Ä

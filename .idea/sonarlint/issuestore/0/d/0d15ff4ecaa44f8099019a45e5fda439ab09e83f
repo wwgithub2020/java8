@@ -1,0 +1,17 @@
+
+;
+java:S2129
+" Remove this "String" constructor(‚øòÄÿÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(Ï„·‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔØÆ¥ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”»«Àüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ü«Ù-
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×îãÙüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¶şÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀŸ½ùÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ˆã‘åùÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÕÂÊ‡ùÿÿÿÿ

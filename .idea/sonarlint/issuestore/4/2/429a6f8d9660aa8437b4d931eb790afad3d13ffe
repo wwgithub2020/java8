@@ -1,0 +1,13 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»…§­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–¯ªâøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßšô¥
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ç†’ùÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ç†’ùÿÿÿÿ
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ç†’ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ°á¸
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öóéƒ

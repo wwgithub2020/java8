@@ -1,0 +1,8 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(ŒŒâ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ã™šö
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£æ§²øÿÿÿÿ8Êí–÷/
+X
+java:S1128";Remove this unused import 'cn.hutool.core.util.ObjectUtil'.(£šúî8‚Êí–÷/
+T
+java:S2589"7Remove this expression which always evaluates to "true"(ï›ÂÛ8†Êí–÷/
