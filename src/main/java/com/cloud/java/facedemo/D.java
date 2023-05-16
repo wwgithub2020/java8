@@ -6,4 +6,5 @@ package com.cloud.java.facedemo;
  * @Version 1.0.0
  */
 public class D extends C{
+
 }
