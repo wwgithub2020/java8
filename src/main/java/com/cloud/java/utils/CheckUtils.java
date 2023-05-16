@@ -32,4 +32,5 @@ public class CheckUtils {
         Pattern pattern = Pattern.compile("^[-\\+]?[\\d]*$");
         return pattern.matcher(str).matches();
     }
+
 }
