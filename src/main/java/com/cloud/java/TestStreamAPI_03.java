@@ -26,5 +26,4 @@ public class TestStreamAPI_03 {
             new Employee("王超", 45, 4800.00)
     );
 
-
 }
