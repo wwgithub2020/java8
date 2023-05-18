@@ -12,7 +12,7 @@ import java.util.Map;
  */
 public class TestSort_02 {
     public static void main(String[] args) {
-        Map<String, Integer> map = ImmutableMap.of("0",3,"1",10,"0.3",8,"1.2",6);
+        Map<String, Integer> map = ImmutableMap.of("0",2,"1",10,"0.3",8,"1.2",6);
 
         System.out.println("根据map的key升序进行排序：" + sortByKey(map, false));
         System.out.println("根据map的key降序进行排序：" + sortByKey(map, true));
