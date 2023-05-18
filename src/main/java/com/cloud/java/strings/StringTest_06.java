@@ -52,6 +52,7 @@ public class StringTest_06 {
         list.add(new Employee("D", 30, 15000.00));
         list.add(new Employee("D", 22, 7500.00));
         list.add(new Employee("E", 25, 8000.00));
+        list.add(new Employee("E", 26, 8000.00));
         return list;
     }
 }
