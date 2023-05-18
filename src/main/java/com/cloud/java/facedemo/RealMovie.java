@@ -3,7 +3,6 @@ package com.cloud.java.facedemo;
 import com.cloud.interfaces.TestInterface_01;
 
 /**
- * @Auther: adminwei
  * @Date: 2022/4/20 11:34
  * @Description: RealMovie
  * @Version 1.0.0
