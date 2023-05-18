@@ -41,7 +41,7 @@ public class StringBuilderTest_02 {
     }
 
     /**
-     * 先将字符串转换成大写再反转
+     * 字符串反转方式二 先将字符串转换成大写再反转
      * @param str
      * @return
      */
