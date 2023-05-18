@@ -12,7 +12,7 @@ public class StringTest_07 {
 
     @Test
     public void testConcat() {
-        String hello = concatStr("hello");
+        String hello = concatStr("hello boot");
         System.out.println("结果是：" + hello);
     }
 
