@@ -19,6 +19,19 @@ public class LocalTimeAndLocalDateTimeTest_01 {
 
         LocalDateTime now = LocalDateTime.now();
         System.out.println("是：" + now);
+
+        //  获取年
+        System.out.println(now.getYear());
+        //  获取月
+        System.out.println(now.getMonthValue());
+        //  获取日
+        System.out.println(now.getDayOfMonth());
+        //  获取小时
+        System.out.println(now.getHour());
+        //  获取分钟
+        System.out.println(now.getMinute());
+        //  获取秒
+        System.out.println(now.getSecond());
     }
 
     @Test
