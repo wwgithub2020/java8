@@ -42,7 +42,7 @@ public class LocalTimeAndLocalDateTimeTest_01 {
 
     @Test
     public void test_02() {
-        LocalDateTime dateTime = timestampToLocalDateTime(1684572548265l);
+        LocalDateTime dateTime = timestampToLocalDateTime(1684572548265L);
         System.out.println("测试结果是：" + dateTime);
     }
 
