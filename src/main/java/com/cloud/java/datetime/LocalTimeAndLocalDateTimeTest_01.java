@@ -46,6 +46,13 @@ public class LocalTimeAndLocalDateTimeTest_01 {
         System.out.println("测试结果是：" + dateTime);
     }
 
+    @Test
+    public void test_03() {
+        LocalDateTime localDateTime = dateToLocalDateTime(new Date());
+        System.out.println("测试结果是：" + localDateTime);
+        System.out.println("结果是：" + new Date());
+    }
+
     /**
      * 将LocalDateTime 转为自定义的时间格式字符串
      * @param localDateTime
@@ -113,5 +120,14 @@ public class LocalTimeAndLocalDateTimeTest_01 {
         ZoneId zone = ZoneId.systemDefault();
         Instant instant = localDateTime.atZone(zone).toInstant();
         return Date.from(instant);
+    }
+
+    /**
+     * Date to LocalDateTime
+     * @param date
+     * @return
+     */
+    public static LocalDateTime dateToLocalDateTime(Date date) {
+        return date.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime();
     }
 }
